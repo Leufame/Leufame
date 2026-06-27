@@ -19,6 +19,6 @@
 
 ## 技術スタック
 
-![技術スタック](https://img.shields.io/badge/Machine%20Learning-333?style=for-the-badge&logo=machinelearning&logoColor=white) ![フロントエンド開発者](https://img.shields.io/badge/Frontend%20Developer-333?style=for-the-badge&logo=frontenddeveloper&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-333?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![技術スタック](https://img.shields.io/badge/技術スタック-333?style=for-the-badge&logo=machinelearning&logoColor=white) ![フロントエンド開発者](https://img.shields.io/badge/フロントエンド開発者-333?style=for-the-badge&logo=frontenddeveloper&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-333?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </div>
