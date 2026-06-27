@@ -17,14 +17,8 @@
 - 💬 Web開発や機械学習について、お気軽にご質問ください。
 - ⚡ **Maimaiが大好きです。**
 
-## 🛠️ Tech Stack
+## 技術スタック
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-333?style=for-the-badge&logo=machinelearning&logoColor=white) ![Frontend Developer](https://img.shields.io/badge/Frontend%20Developer-333?style=for-the-badge&logo=frontenddeveloper&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-333?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-## 🔗 Connect with me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keitatafuma)
+![技術スタック](https://img.shields.io/badge/Machine%20Learning-333?style=for-the-badge&logo=machinelearning&logoColor=white) ![フロントエンド開発者](https://img.shields.io/badge/Frontend%20Developer-333?style=for-the-badge&logo=frontenddeveloper&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-333?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </div>
